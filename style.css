@@ -100,7 +100,7 @@ p,
 
 /* Make responsive  */
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 1440px) {
   .box {
     max-width: 42vw;
     max-height: 65vh;
